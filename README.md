@@ -15,8 +15,8 @@
 <br>
 
 > I am **xMikussTVx** - **Mikołaj Kaczmarczyk**
-I'm xMikussTVx, I'm 17 and I've been programming since 2019
-He works mainly in programming languages ​​such as LUA, HTML AND CSS
+I'm 17 and I've been programming since 2019
+I work mainly in programming languages ​​such as LUA, HTML AND CSS
 <br>
 
 #### Contact and Socials
